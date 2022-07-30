@@ -1,5 +1,5 @@
-# engage
-engagement platform
+# Engage
+An SaaS product, engagement platform widely used across companies
 
 ## team Sqintol having members and their taken roles:
 - Product Management & DevOps, Ali Asgar, ali.asgar2019@vitbhopal.ac.in
