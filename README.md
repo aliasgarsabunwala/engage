@@ -1,7 +1,7 @@
 # Engage
 An SaaS product, engagement platform widely used across companies
 
-WILL BE PRIVATE SOON TO PROTECT TILL AUG 5
+WILL BE PRIVATE SOON TO PROTECT CODE INTEGRITY TILL AUG 5
 
 ## team Sqintol having members and their taken roles:
 - Product Management & DevOps, Ali Asgar, ali.asgar2019@vitbhopal.ac.in
